@@ -26,9 +26,9 @@ body{
     padding: 25px;
 }
 
-img{
+#banner{
     border-radius: 15px;
-    
+    width: 100%;
 }
 
 button{
